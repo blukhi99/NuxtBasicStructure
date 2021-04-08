@@ -1,5 +1,5 @@
-# pace-client-vue
-PACE Client App written in VUE
+# my-app-vue
+My App written in VUE
 
 ## Build Setup
 
